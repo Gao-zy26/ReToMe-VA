@@ -1,2 +1,2 @@
-# ReToMe-VA
-official code of ReToMe-VA
+# [ACM MM 2024] ReToMe-VA: Recursive Token Merging for Video Diffusion-based Unrestricted Adversarial Attack
+Code coming soon...

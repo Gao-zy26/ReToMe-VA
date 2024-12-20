@@ -29,3 +29,16 @@ This repository is the official implementation of ***ReToMe-VA***. The paper can
 ```
 python main.py --input_path your_data_path --test_dir output_path --retome --merge_ratio=0.5 --input_csv your_data_sample_csv_file
 ```
+
+## Citation
+If you find our work helpful, please leave us a star and cite our paper.
+
+```
+@inproceedings{gao2024retome,
+  title={ReToMe-VA: Recursive Token Merging for Video Diffusion-based Unrestricted Adversarial Attack},
+  author={Gao, Ziyi and Chen, Kai and Wei, Zhipeng and Mou, Tingshu and Chen, Jingjing and Tan, Zhiyu and Li, Hao and Jiang, Yu-Gang},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={4485--4494},
+  year={2024}
+}
+```
